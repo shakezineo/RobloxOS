@@ -18,6 +18,7 @@ Short answer: No
 Long answer: i wish i could turn this into a full on Linux distro but i don't have the Albert Heinstein brain to do that. So until someone decides to turn this into a Linux distro i won't be in anyway doing that myself
 
 # Features
+* URA (Universal RobloxOS Executable Architecture)
 * File Manager (no restriction for deleting things)
 * Screenshots
 * Command Prompt
