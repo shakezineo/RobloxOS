@@ -15,7 +15,7 @@ A: You can clone RobloxOS on the game page on Roblox or do modifications to the 
 ### Q: Is this turning into a Linux distro of sorts? <br/>
 Short answer: No
 
-Long answer: i wish i could turn this into a full on Linux distro but i don't have the Albert Heinstein brain to do that. So until someone decides to turn this into a Linux distro i won't be in anyway doing that myself
+Long answer: i wish i could turn this into a full on Linux distro but i don't have the Albert Einstein brain to do that. So until someone decides to turn this into a Linux distro i won't be in anyway doing that myself
 
 # Features
 * URA (Universal RobloxOS Executable Architecture)
